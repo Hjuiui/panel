@@ -2,16 +2,8 @@
 
 خب اول کد Worker رو دانلود کنید و ببرید توی داشبورد ورکر کلادفلرو فایل رو آپلود کنید.
 
-<p align="center">
-  <img src="assets/images/Worker_mobile_upload.jpg">
-</p>
-
  در نهایت ورکر رو `Save and Deploy` کنید.
 حالا از اینجا به داشبورد ورکر برگردید و این مراحل را دنبال کنید:
-
-<p align="center">
-  <img src="assets/images/Navigate_worker_dash.jpg">
-</p>
 
 از این قسمت وارد صفحه `KV` بشید:
 
