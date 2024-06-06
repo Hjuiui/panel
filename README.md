@@ -48,9 +48,6 @@
 
 >[Proxy IP](https://www.nslookup.io/domains/cdn-all.xn--b6gac.eu.org/dns-records/)
 
-<p align="center">
-  <img src="assets/images/Proxy_ips.jpg">
-</p>
 
 متن اول خط 14 به این صورت است:
 
