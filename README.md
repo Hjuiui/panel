@@ -7,9 +7,7 @@
 
 از این قسمت وارد صفحه `KV` بشید:
 
-<p align="center">
-  <img src="assets/images/Nav_dash_kv.jpg">
-</p>
+> ![Screenshot (4)](https://private-user-images.githubusercontent.com/161088226/337188002-f840b806-6fe7-498a-bee1-0c750b016805.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc2NjMyNTIsIm5iZiI6MTcxNzY2Mjk1MiwicGF0aCI6Ii8xNjEwODgyMjYvMzM3MTg4MDAyLWY4NDBiODA2LTZmZTctNDk4YS1iZWUxLTBjNzUwYjAxNjgwNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwNlQwODM1NTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZGY0Yjc5YTk4YTQ5YjlhZWMyMzJmNjNlNzdlMWNhM2JhZTAyZTI0ZjEyNDFmMzRjYTA5ZDQ4YjNjNDA3YTJlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.d5uD2nlXt625Wm64_XWc30UAKdKzIv_W6h5v3kHHF28)
 
 تو قسمت KV بزنید `Create a namespace` و یه اسم دلخواه وارد کنید مثلا Test و `Add` کنید.
 
