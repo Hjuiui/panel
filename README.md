@@ -23,9 +23,7 @@
 
 دوباره از منوی سمت چپ به قسمت `Workers & Pages` برید، ورکری که ساختید رو باز کنید، برید به قسمت `Settings` و `Variables` رو انتخاب کنید. یه کم بیاید پایین قسمت `KV Namespace Bindings` رو میبینید، روی `Add binding` بزنید و مطابق تصویر زیر از کشویی سمت راست اون KV که ساخته بودید انتخاب کنید (در مثال Test بود). چیزی که مهمه کشویی سمت چپه، حتما باید مقدارش رو بذارید `hosein` و `Save and Deploy` و تمام.
 
-<p align="center">
-  <img src="assets/images/Bind_kv.jpg">
-</p>
+> ![Screenshot (3)](https://private-user-images.githubusercontent.com/161088226/337185674-2c91de2a-75a4-4f51-9678-1feb2a35ba62.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc2NjI5NDksIm5iZiI6MTcxNzY2MjY0OSwicGF0aCI6Ii8xNjEwODgyMjYvMzM3MTg1Njc0LTJjOTFkZTJhLTc1YTQtNGY1MS05Njc4LTFmZWIyYTM1YmE2Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwNlQwODMwNDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZThlNjIxZWU1YjJmYjRiNDI1MTA5YjVhOTU2ZTM0M2MwYjc3OGMwYjE4MDA1YjE5OGRjMmJmMGFjMjk2ZGYzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.FbTNOKOpq9ykkiNseJCuZWiZuqIr9siu8ZVwTMvR4-Y)
 
 برای مثال، فرض کنید دامنه‌ی ورکر شما هست worker-polished-leaf-d022.workers.dev، یه `panel/` تهش اضافه کنید و وارد پنل بشید. مثال:
 
